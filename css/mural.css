@@ -1,0 +1,80 @@
+html{
+   background-color: #c6cedd;
+}
+.container-fluid{
+   background-color: white;
+   justify-content: center;
+   margin: 2em ;
+}
+.nav{
+   display: flex;
+   justify-content: space-around;
+   align-content: center;
+
+}
+#navbar{
+   display: flex;
+   padding-top: 50px;
+   margin-bottom: 6em;
+   justify-content: center;
+   align-items: center;
+   margin-left: -90px;
+   outline: none;
+   text-decoration: none;
+}
+#navbars{
+   display: flex;
+   margin-top: -50px;
+   align-items: center;
+   margin-right: -100px;
+   color: black;
+   outline: none;
+   text-decoration: none;
+
+}
+#navbars a{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-left: 40px;
+   color: rgb(33, 30, 30);
+   outline: none;
+   text-decoration: none;
+}
+.ita{
+   margin-top: 3em;
+   font-family: Montserrat;
+   font-size: 25px;
+   font-weight: 600;
+   line-height: 30px;
+   letter-spacing: 0em;
+   text-align: left;
+
+
+}
+.ita h1{
+   font-style: italic;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: 0;
+   letter-spacing: 0.5%;
+   
+}
+.ita p{
+   padding-top: 25px;
+   font-size: 12px;
+   font-weight: 100;
+}
+.sh{
+   border-radius: 2px;
+   border: 1px solid red;
+   margin-right: 20px;
+   padding: 15px 30px;
+   font-size: 15px;
+   font-weight: 600;
+}
+.murals{
+   width: 100%;
+}
+.top{
+   margin-bottom: 20px;
+}
